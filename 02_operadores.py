@@ -24,3 +24,4 @@ print("hola" == "HOLA")
 print(4 == (2*2) and 4*3 == 6+6)
 print(4 == (2*2) or 4*3 == 6+5)
 print(not(4 == (2*2) and 4*3 == 6+5))
+
